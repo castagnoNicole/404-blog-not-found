@@ -33,7 +33,7 @@ avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo**
 In English "Cliff"
 falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)**Klipp**e (Spanish)ac**antilado**
 <figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/falaiscoglieklippantilado.jpeg"></a>
+    <a href="/assets/images/falaiscoglieklippantilado.jpeg"><img src="/assets/images/falaiscoglieklippantilado.jpeg"></a>
     <figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ For example, if a model is trained to never reveal a password, someone might try
 I tried on this prompt on this model https://gandalf.lakera.ai/do-not-tell-and-block which is instructed to not give the password and it worked!
 
 <figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/gandalf_password.png"></a>
+    <a href="/assets/images/gandalf_password.png"><img src="/assets/images/gandalf_password.png"></a>
     <figcaption>Screenshot of restriction bypass using macaronic prompting</figcaption>
 </figure>
 
