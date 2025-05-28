@@ -24,16 +24,18 @@ Below two more complex examples, using ChatGTP 4o.
 #### Plane
 In English "plane"
 avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo** 
-<figure class="half">
-    <a href="/assets/images/avflugzereo.jpeg"><img src="/assets/images/avflugzereo.jpeg"></a>
-    <figcaption>Generated image of a plane using the word "avflugzereo"</figcaption>
-</figure>
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/avflugzereo.jpeg)
+{: .half}
+<figcaption>Generated image of a plane using the word "avflugzereo"</figcaption>
+
 
 #### Cliff
 In English "Cliff"
 falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)**Klipp**e (Spanish)ac**antilado**
+
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/falaiscoglieklippantilado.jpeg)
-{: .full}
+{: .half}
 
 <figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
 
@@ -44,10 +46,9 @@ For example, if a model is trained to never reveal a password, someone might try
 
 I tried on this prompt on [Gandalf AI](https://gandalf.lakera.ai/do-not-tell-and-block), which is instructed to not give the password...**and it worked!** 
 
-<figure class="half">
-    <a href="/assets/images/gandalf_password.png"><img src="/assets/images/gandalf_password.png"></a>
-    <figcaption>Screenshot of restriction bypass using macaronic prompting</figcaption>
-</figure>
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gandalf_password.png)
+{: .half}
+<figcaption>Screenshot of restriction bypass using macaronic prompting</figcaption>
 
 Gandalf AI is a game designed to learn about vulnerabilities in generative AI systems I recommend to give it a try if you're interested in the topic.
 
