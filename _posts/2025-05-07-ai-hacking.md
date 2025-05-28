@@ -43,12 +43,14 @@ Macaronic prompting can be used to “hide” the true intent of a prompt from c
 For example, if a model is trained to never reveal a password, someone might try to get around this by asking for a “motword” (mixing “mot” from French and “word” from English), and the AI might not recognize it as a restricted request.
 
 I tried on this prompt on [Gandalf AI](https://gandalf.lakera.ai/do-not-tell-and-block), which is instructed to not give the password...**and it worked!** 
-Gandalf AI is a game designed to learn about vulnerabilities in generative AI systems I recommend to give it a try if you're interested in the topic.
 
 <figure class="half">
     <a href="/assets/images/gandalf_password.png"><img src="/assets/images/gandalf_password.png"></a>
     <figcaption>Screenshot of restriction bypass using macaronic prompting</figcaption>
 </figure>
+
+Gandalf AI is a game designed to learn about vulnerabilities in generative AI systems I recommend to give it a try if you're interested in the topic.
+
 
 ## Final Thoughts
 As a pentester, I’m reminded that creativity is one of our most important tools for discovering new vulnerabilities. Techniques like macaronic prompting show just how much thinking outside the box can reveal about the hidden weaknesses in modern technology. Events like Tech&Meet are a great way to stay inspired!
