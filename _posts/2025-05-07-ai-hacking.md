@@ -16,10 +16,11 @@ During his talk, Inti explored some of the lesser-known vulnerabilities in AI mo
 Macaronic prompting is when you mix two or more languages in a single sentence or even a single word while interacting with an AI.
 For example, you might say:
 > “Can you explain cómo funciona esto?”
+
 Or you might mash up words, like combining the English “cat” and the Spanish “gato” to make “catgato”.
 And multilanguage models will understand what you mean even if the word "catgato" doesn't exist.
 
-Below some more complex examples, using ChatGTP 4o
+Below two more complex examples, using ChatGTP 4o.
 #### Plane
 In English "plane"
 avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo** 
