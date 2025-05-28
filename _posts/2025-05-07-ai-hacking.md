@@ -33,7 +33,7 @@ avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo**
 In English "Cliff"
 falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)**Klipp**e (Spanish)ac**antilado**
 <figure class="half">
-    <a href="/assets/images/falaiscoglieklippantilado.jpeg"><img src="/assets/images/falaiscoglieklippantilado.jpeg"></a>
+    <a href="404-blog-not-found/assets/images/falaiscoglieklippantilado.jpeg"><img src="404-blog-not-found/assets/images/falaiscoglieklippantilado.jpeg"></a>
     <figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
 </figure>
 
