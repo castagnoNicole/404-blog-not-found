@@ -3,9 +3,8 @@ title: "Getting My Hands Dirty: A Masterclass in ICS Exploitation"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - ics
+  - hacking
 ---
 
 Back in March, I joined a masterclass all about hacking (ethically, of course!) Industrial Control Systems, or ICS. I needed a crash course for my internship project, and this class promised exactly that. An exacting morning full of new hacking techniques!
