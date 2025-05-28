@@ -7,7 +7,7 @@ tags:
   - hacking
 ---
 
-Back in March, I joined a masterclass all about hacking (ethically, of course!) Industrial Control Systems, or ICS. I needed a crash course for my internship project, and this class promised exactly that. An exacting morning full of new hacking techniques!
+Back in March, I joined a masterclass all about hacking *(ethically, of course!)* Industrial Control Systems, or ICS. I needed a crash course for my internship project, and this class promised exactly that. An exacting morning full of new hacking techniques!
 
 The class brought together a diverse group: researchers and system administrators from Belgian companies. Everyone was curious about how industrial communication protocols work. The sysadmins wanted to learn how to keep their OT (Operational Technology) networks safe, while the researchers were more interested in how these systems could be attacked - for ethical purposes of course!
 
@@ -21,11 +21,11 @@ Our lab environment simulated a tile factory, complete with PLCs (Programmable L
 
 Here’s a breakdown of some key exploits we practiced:
 
-- SMB Remote Code Execution (MS17-010): We began with a classic vulnerability on Windows XP. Using zzz_exploit.py, we created a new Windows user and dumped user credentials. Even though passwords were hashed, we could leverage “pass-the-hash” techniques to move laterally within the network.
+- **SMB Remote Code Execution (MS17-010):** We began with a classic vulnerability on Windows XP. Using zzz_exploit.py, we created a new Windows user and dumped user credentials. Even though passwords were hashed, we could leverage “pass-the-hash” techniques to move laterally within the network.
   
-- Beckhoff HMI Authentication Bypass (CVE-2015-4051): Next, we targeted older Beckhoff HMIs, exploiting a web interface vulnerability using a Python script provided by our instructor. This demonstrated how legacy devices often lack basic security controls.
+- **Beckhoff HMI Authentication Bypass (CVE-2015-4051):** Next, we targeted older Beckhoff HMIs, exploiting a web interface vulnerability using a Python script provided by our instructor. This demonstrated how legacy devices often lack basic security controls.
 
-- Schneider Electric Epoch Cookie Attack (CVE-2017-6026): Some Schneider Electric devices use epoch time as a session cookie, which can be easily retrieved via SNMP to hijack sessions. This highlighted the risks of weak authentication mechanisms in industrial devices.
+- **Schneider Electric Epoch Cookie Attack (CVE-2017-6026):** Some Schneider Electric devices use epoch time as a session cookie, which can be easily retrieved via SNMP to hijack sessions. This highlighted the risks of weak authentication mechanisms in industrial devices.
 
 #### Final thoughts
 At Howest, our curriculum covers IT penetration testing but only touches on ICS. This masterclass filled that gap, offering exposure to specialized tools and techniques for industrial environments-skills that are increasingly in demand as OT networks face rising cyber threats.
