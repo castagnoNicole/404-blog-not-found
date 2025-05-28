@@ -41,13 +41,14 @@ falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)*
 Macaronic prompting can be used to “hide” the true intent of a prompt from content filters or moderation systems. Since these filters often rely on spotting specific keywords, mixing languages can help prompts slip through undetected. This has raised some concerns about misuse, like bypassing safety mechanisms in AI systems.
 
 For example, if a model is trained to never reveal a password, someone might try to get around this by asking for a “motword” (mixing “mot” from French and “word” from English), and the AI might not recognize it as a restricted request.
-I tried on this prompt on this model https://gandalf.lakera.ai/do-not-tell-and-block which is instructed to not give the password and it worked!
+
+I tried on this prompt on [Gandalf AI](https://gandalf.lakera.ai/do-not-tell-and-block), which is instructed to not give the password...**and it worked!** 
+Gandalf AI is a game designed to learn about vulnerabilities in generative AI systems I recommend to give it a try if you're interested in the topic.
 
 <figure class="half">
     <a href="/assets/images/gandalf_password.png"><img src="/assets/images/gandalf_password.png"></a>
     <figcaption>Screenshot of restriction bypass using macaronic prompting</figcaption>
 </figure>
-
 
 ## Final Thoughts
 As a pentester, I’m reminded that creativity is one of our most important tools for discovering new vulnerabilities. Techniques like macaronic prompting show just how much thinking outside the box can reveal about the hidden weaknesses in modern technology. Events like Tech&Meet are a great way to stay inspired!
