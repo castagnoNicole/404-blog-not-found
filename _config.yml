@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Nic Castagno"
   avatar : "/assets/images/avflugzereo.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My cybersecurity adventures."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
