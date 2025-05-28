@@ -25,7 +25,7 @@ Below two more complex examples, using ChatGTP 4o.
 In English "plane"
 avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo** 
 <figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/avflugzereo.jpeg"></a>
+    <a href="/assets/images/avflugzereo.jpeg"><img src="/assets/images/avflugzereo.jpeg"></a>
     <figcaption>Generated image of a plane using the word "avflugzereo"</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo**
 In English "Cliff"
 falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)**Klipp**e (Spanish)ac**antilado**
 <figure class="half">
-    <img src="/assets/images/falaiscoglieklippantilado.jpeg">
+    <img src="/assets/images/bio-photo.jpg">
     <figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
 </figure>
 
