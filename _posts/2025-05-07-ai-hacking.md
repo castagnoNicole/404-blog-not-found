@@ -32,10 +32,10 @@ avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo**
 #### Cliff
 In English "Cliff"
 falaiscoglieklippantilado = (French)**falai**se (Italian)**scoglie**ra (German)**Klipp**e (Spanish)ac**antilado**
-<figure class="half">
-    <img src="/assets/images/falaiscoglieklippantilado.jpeg">
-    <figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
-</figure>
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/falaiscoglieklippantilado.jpeg)
+{: .full}
+
+<figcaption>Generated image of a cliff using the word "falaiscoglieklippantilado"</figcaption>
 
 ### Why Does This Matter?
 Macaronic prompting can be used to “hide” the true intent of a prompt from content filters or moderation systems. Since these filters often rely on spotting specific keywords, mixing languages can help prompts slip through undetected. This has raised some concerns about misuse, like bypassing safety mechanisms in AI systems.
