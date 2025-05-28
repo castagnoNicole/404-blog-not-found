@@ -25,7 +25,7 @@ In English "plane"
 avflugzereo = (French)**av**ion  (German)**Flugz**eug (Italian)a**ereo** 
 <figure class="half">
     <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/avflugzereo.jpeg"></a>
-    <figcaption>>Generated image of a plane using the word "avflugzereo"</figcaption>
+    <figcaption>Generated image of a plane using the word "avflugzereo"</figcaption>
 </figure>
 
 #### Cliff
