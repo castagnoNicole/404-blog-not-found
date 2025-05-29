@@ -30,6 +30,7 @@ The message from the challenge trasnslate to:
 
 And looked like this:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/flag_message.png) {: .half}
+<figcaption>Flag message - Source Cybersecurity Challenge Belgium</figcaption>
 
 ### Final thoughts
 Looking back, we definitely would have benefited from more preparation. CTF challenges have their own unique style and logic—they’re not the same as running a standard vulnerability assessment. The more you practice, the better you get.
