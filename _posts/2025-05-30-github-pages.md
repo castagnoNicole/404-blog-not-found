@@ -41,14 +41,16 @@ Most GitHub Pages blogs use Jekyll, which works with Markdown files. You can:
 
 ### Step 5: Customize Your Blog
 - Pick a Jekyll theme to change the look and feel. You can find themes on the Jekyll Themes site. *I'm using Minimal mistakes*
-- Edit the _config.yml file to change your blog’s title, description, and settings.
+- Edit the `_config.yml` file to change your blog’s title, description, and settings.
 
 ### Step 6: Publish and Update
 Every time you push changes to your repository (add posts, edit content, etc.), GitHub Pages automatically rebuilds and updates your blog.
 You can preview your changes locally if you install Jekyll, but for most users, editing directly on GitHub is enough.
 
-**Small tip** If you want to know the status of deployment go to: `https://github.com/your-username/blog-title/deployments`
+**Small tip** If you want to know the status of deployment go to: `https://github.com/your-username/blog-title/deployments` or click on "Deployments" (see picture below)
 {: .notice--info} 
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/deployments.png) {: .half}
 
 ## Why I chose GitHub Pages for my blog?
 - Free hosting — no ads or hidden costs.
