@@ -56,7 +56,7 @@ Upstream’s team monitors 1,133 active threat actors across dark web forums. Th
 ## Bridging the Cybersecurity Gap
 Automotive cybersecurity isn’t just about cars anymore—it’s about protecting energy grids, traffic lights too.
 
-Marco’s closing advice hit hard:
+Marco’s closing advice hits hard:
 - **More collaboration within the industry is necessary** OEMs, insurers, and even smart cities need to **team up** and exchange threat data.
 
 
