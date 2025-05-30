@@ -29,6 +29,7 @@ The message from the challenge trasnslate to:
 > "England will attack us with at least 189798411 men"
 
 And looked like this:
+
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/flag_message.png) {: .half}
 <figcaption>Flag message - Source Cybersecurity Challenge Belgium</figcaption>
 
