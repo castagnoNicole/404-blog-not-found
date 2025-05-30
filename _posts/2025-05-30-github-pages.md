@@ -27,14 +27,16 @@ Your username will become part of your blog’s URL, so choose something you lik
 - Go to your new repository’s Settings.
 - In the sidebar, click Pages under “Code and automation.”
 - Under Build and deployment, choose Deploy from a branch.
-- Select the branch you want to publish (usually main or master). Every time you commit on this branch Github will re-deploy the website.
+- Select the branch you want to publish. Every time you commit on that branch Github will re-deploy the website.
 - Save your settings.
 
 Your site will be live at `https://yourusername.github.io` after a few minutes.
 
 ### Step 4: Add Your Blog Content
 Most GitHub Pages blogs use Jekyll, which works with Markdown files. You can:
-- Add blog posts by creating files in the _posts directory. Each post should be named like YYYY-MM-DD-title.md (e.g., 2025-05-30-my-first-post.md).
+- Add blog posts by creating files in the `_posts directory`.
+- Each post should be named like `YYYY-MM-DD-title.md`.
+  - (e.g., 2025-05-30-my-first-post.md).
 - Write your posts in Markdown, which is simple to learn and great for formatting text, code, and images.
 
 ### Step 5: Customize Your Blog
@@ -46,6 +48,6 @@ Every time you push changes to your repository (add posts, edit content, etc.), 
 You can preview your changes locally if you install Jekyll, but for most users, editing directly on GitHub is enough.
 
 ## Why I chose GitHub Pages for my blog?
-- Free hosting—no ads or hidden costs.
-- Easy to update—just push to GitHub.
-- No server maintenance—focus on writing, not sysadmin tasks.
+- Free hosting — no ads or hidden costs.
+- Easy to update — just push to GitHub.
+- No server maintenance — focus on writing, not sysadmin tasks.
