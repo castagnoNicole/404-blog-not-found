@@ -48,9 +48,10 @@ Every time you push changes to your repository (add posts, edit content, etc.), 
 You can preview your changes locally if you install Jekyll, but for most users, editing directly on GitHub is enough.
 
 **Small tip** If you want to know the status of deployment go to: `https://github.com/your-username/blog-title/deployments` or click on "Deployments" (see picture below)
-{: .notice} 
+{: .notice--primary} 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/deployments.png) {: .half}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/deployments.png)
+{: .half}
 
 ## Why I chose GitHub Pages for my blog?
 - Free hosting — no ads or hidden costs.
