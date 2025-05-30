@@ -30,7 +30,8 @@ The message from the challenge trasnslate to:
 
 And looked like this:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/flag_message.png) {: .half}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/flag_message.png)
+{: .half}
 <figcaption>Flag message - Source Cybersecurity Challenge Belgium</figcaption>
 
 ## Final thoughts
