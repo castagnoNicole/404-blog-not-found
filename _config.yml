@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Nic Castagno"
-  avatar : "/assets/images/avflugzereo.jpeg"
+  avatar : "/assets/images/bio-pic.png"
   bio    : "My cybersecurity adventures."
   links:
     - label: "LinkedIn"
