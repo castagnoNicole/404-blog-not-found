@@ -10,7 +10,7 @@ tags:
 ---
 
 This interview was recorded for the Howest IT Student Podcast, available on Spotify. Listen to the full conversation for deeper insights into automotive cybersecurity!
-{: .notice}
+{: .notice--primary}
 
 Last week, I had the chance to sit down with Marco Fenoglio, Director of EMEA Customer Success at Upstream Security. 
 With over 20 years in automotive cybersecurity, Marco shared cutting-edge insights on everything from regulatory battles to AI-powered vSOCs.
@@ -20,7 +20,7 @@ Here’s what stood out:
 ## Regulatory compliance
 We kicked off by comparing two major frameworks shaping automotive cybersecurity:
 - UNECE R155: A global baseline requiring OEMs to implement Cyber Security Management Systems (CSMS) and Threat Analysis & Risk Assessments (TARA). “R155 is a starting point, not an endgame,” Marco noted. “Compliance alone won’t stop dynamic threats.”
-- China’s GB 44495-2024: A prescriptive standard mandating 27 specific tests for vehicles. “It’s like R155 on steroids—granular, but still limited to certain vehicle classes.”
+- China’s GB 44495-2024: A prescriptive standard mandating 27 specific tests for vehicles. 
 
 ## The Automotive Threat Matrix
 Auto-ISAC’s Automotive Threat Matrix (ATM) — think MITRE ATT&CK for cars — is changing the game. Upstream’s AutoThreat®PRO uses ATM to:
